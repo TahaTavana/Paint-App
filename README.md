@@ -10,6 +10,28 @@ A simple desktop paint application built using Python.
 - Eraser tool
 - Clear the canvas
 - Easy-to-use graphical user interface (GUI)
+🚀 Functionality
+its so easy to run
+
+Painting
+You can choose a color, change the brush thickness, and paint. You can change canvas size.
+
+Save to device
+You can save picture to your PC in different formats (JPG).
+
+Eraser
+clear the canvas
+
+chose color:
+you can chose color and draw with your own color.
+Background
+You can choose the color of background.
+
+Text
+You can put text in cavas in the size , color and your own place..
+
+save
+you can save your image.
 
 ## 🧰 Built With
 
