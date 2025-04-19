@@ -28,5 +28,4 @@ Make sure Python is installed. You can download it from: https://www.python.org/
 1. Clone the repository:
    ```bash
    download the all of the images and codes and paste in your folder and run it .
-   its so easy to run .
-لخلخلg
+   its so easy to run.
