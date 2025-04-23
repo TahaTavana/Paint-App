@@ -1,4 +1,3 @@
-![PaintApp](https://github.com/user-attachments/assets/6e30a379-f597-49d5-b7a1-3774d8de007b)
 # 🎨 Paint App (Python)
 
 A simple desktop paint application built using Python.
@@ -52,3 +51,6 @@ Make sure Python is installed. You can download it from: https://www.python.org/
    ```bash
    download the all of the images and codes and paste in your folder and run it .
    its so easy to run.
+
+![PaintApp](https://github.com/user-attachments/assets/6e30a379-f597-49d5-b7a1-3774d8de007b)
+
