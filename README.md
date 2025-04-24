@@ -50,6 +50,7 @@ Make sure Python is installed. You can download it from: https://www.python.org/
 git clone https://github.com/TahaTavana/Paint-App.git
 cd Paint-App\
 python paint.py
+```
 
 ![PaintApp](https://github.com/user-attachments/assets/6e30a379-f597-49d5-b7a1-3774d8de007b)
 
