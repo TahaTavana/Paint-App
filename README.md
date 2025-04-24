@@ -51,6 +51,13 @@ git clone https://github.com/TahaTavana/Paint-App.git
 cd Paint-App\
 python paint.py
 ```
+## About Me
+
+Hi! I'm a bilingual developer fluent in Persian and English.  
+I'm experienced in **JavaScript**, **React**, and **Python**, and I love turning ideas into clean, functional code.  
+Whether it's building interactive UIs or writing efficient backend scripts, I'm always up for a challenge.
+
+📫 Reach me at: [tavanam814@gmail.com]
 
 ![PaintApp](https://github.com/user-attachments/assets/6e30a379-f597-49d5-b7a1-3774d8de007b)
 
